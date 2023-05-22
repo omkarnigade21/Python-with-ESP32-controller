@@ -32,9 +32,7 @@
  The DRV8871 has a minimum of 6.5V input power for the motor. If you supply a smaller voltage,
  the motor will not work.
  
- Course:
- MicroPython with the ESP32
- https://techexplorations.com
+ 
 
 '''
 
