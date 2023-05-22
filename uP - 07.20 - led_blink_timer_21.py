@@ -17,9 +17,6 @@
  Timers: https://micropython-docs-esp32.readthedocs.io/en/esp32_doc/esp32/quickref.html#timers
  Pins and GPIO: https://micropython-docs-esp32.readthedocs.io/en/esp32_doc/esp32/quickref.html#pins-and-gpio
 
- Course:
- MicroPython with the ESP32
- https://techexplorations.com
 
 '''
 
