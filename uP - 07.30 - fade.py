@@ -19,9 +19,7 @@
  sleep_ms: http://docs.micropython.org/en/latest/library/utime.html?highlight=utime%20sleep#utime.sleep_ms
  range: https://docs.python.org/3/library/functions.html#func-range
 
- Course:
- MicroPython with the ESP32
- https://techexplorations.com
+
 
 '''
 
