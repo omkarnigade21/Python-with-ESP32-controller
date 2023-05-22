@@ -40,9 +40,7 @@
  The IRQ must be dissabled for a very short abount of time.
  If not, the watch dog will reboot the device.
 
- Course:
- MicroPython with the ESP32
- https://techexplorations.com
+
 
 '''
 
