@@ -31,9 +31,7 @@
  sleep_ms: http://docs.micropython.org/en/latest/library/utime.html?highlight=utime%20sleep#utime.sleep_ms
  ticks_ms: http://docs.micropython.org/en/latest/library/utime.html#utime.ticks_ms
 
- Course:
- MicroPython with the ESP32
- https://techexplorations.com
+
 
 '''
 
