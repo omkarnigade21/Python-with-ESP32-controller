@@ -29,17 +29,10 @@
  A 5V mini servo will be able to get enough current from the ESP32 5V pin. If you are using a
  larger servo, consider connecting it to external power.
  
- Course:
- MicroPython with the ESP32
- https://techexplorations.com
+
 
 '''
 
-# Load the machine module for GPIO and PWM
-# Control servo motor with MicroPython
-# Author: George Bantique, TechToTinker
-# Date: September 15, 2020
-# Original: https://techtotinker.blogspot.com/2020/09/006-micropython-tutorial-how-to-control.html
 
 import machine
 # Load the time module for the delays
