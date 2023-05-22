@@ -17,9 +17,7 @@
  Pins and GPIO: https://micropython-docs-esp32.readthedocs.io/en/esp32_doc/esp32/quickref.html#pins-and-gpio
  sleep_ms: http://docs.micropython.org/en/latest/library/utime.html?highlight=utime%20sleep#utime.sleep_ms
 
- Course:
- MicroPython with the ESP32
- https://techexplorations.com
+ 
 
 '''
 
